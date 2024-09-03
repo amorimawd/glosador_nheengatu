@@ -6,6 +6,6 @@ Glosador automático da língua nheengatu, desenvolvido a partir de TextGrids do
 - Coloque os TextGrids já glosados na pasta textgrids. 
 - Rode primeiro DF_Dicio.R e depois Glosador_Nheen.R
 
-Link para acesso dos dados: https://www.geisteswissenschaften.fu-berlin.de/pt/we05/institut/mitarbeiter/reich/forschung/DFG-projekt-zweisprachige-Prosodie/Nheengatu/index.html
+Link para acesso aos dados: https://www.geisteswissenschaften.fu-berlin.de/pt/we05/institut/mitarbeiter/reich/forschung/DFG-projekt-zweisprachige-Prosodie/Nheengatu/index.html
 
 
